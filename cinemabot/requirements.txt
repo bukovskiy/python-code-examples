@@ -1,0 +1,10 @@
+requests==2.22.0
+six==1.12.0
+future
+simplejson
+bs4
+python-dateutil
+lxml
+pytelegrambotapi
+-e git+https://github.com/alberanid/imdbpy#egg=imdbpy
+-e git+https://github.com/ramusus/kinopoiskpy#egg=kinopoisk
